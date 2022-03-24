@@ -1,0 +1,662 @@
+{
+    "HELLO": "Hello!",
+    "CONNECT":
+    {
+        "FACEBOOK_BUTTON": "Continue with Facebook",
+        "FACEBOOK_MESSAGE": "If you have been a PayJoy customer, please log in with the same Facebook account that you have used for prior loans.",
+        "GET_STARTED": "Get started now",
+        "CONTINUE_TO_ONBOARDING": "Continue to onboarding",
+        "ONBOARDING_DISABLED": "Onboarding is temporarily disabled.  Please come back later.",
+        "INSTANT_APPROVAL_TITLE": "Our loans are instant and easy",
+        "INSTANT_APPROVAL_SUBTITLE": "Qualify for loans of $1,000 - $5,000 MXN within minutes and choose one that works for you.",
+        "INSTANT_APPROVAL_SUBTITLE_EC": "Qualify for loans of 50 USD - 250 USD within minutes and choose one that works for you.",
+        "ACCESS_TITLE": "Access your cash anywhere",
+        "ACCESS_SUBTITLE": "Pick up your cash at any BBVA-- no bank account needed. Or have the funds transferred to your bank account.",
+        "ACCESS_SUBTITLE_EC": "Pick up your cash at any Western Union point nationwide to withdraw your money",
+        "ESTABLISH_CREDIT_TITLE": "Establish your credit with us",
+        "ESTABLISH_CREDIT_SUBTITLE": "Early in your credit history?  We understand. Using our PayJoy Lock, we make you eligible for more loans by turning your phone into collateral.",
+        "LOCK_TITLE": "Use the PayJoy lock as your promise to us",
+        "LOCK_SUBTITLE_1": "We will never charge you interest for being late. If you're late on a payment your phone will have restricted functions.  You can always make emergency calls, but most other functions will be blocked.",
+        "LOCK_LEARN_MORE": "Learn more.",
+        "LOCK_SUBTITLE_2": "As soon as you make a payment, your phone will restore to normal functions.",
+        "EXPLAIN_TITLE": "How it works",
+        "EXPLAIN_1_HEADER": "Provide information to qualify for offers",
+        "EXPLAIN_1_SUBHEADER": "Get ready with your phone number, ID and to take a selfie",
+        "EXPLAIN_1_SUBHEADER_EC": "Get ready with your phone number, ID, and to take a selfie.",
+        "EXPLAIN_2_HEADER": "Choose a loan offer that suits you best",
+        "EXPLAIN_3_HEADER": "Get your money"
+    },
+    "BUTTON":
+    {
+        "CORRECT": "Correct",
+        "INCORRECT": "Incorrect",
+        "DATA_OK": "Yes, everything is correct",
+        "DATA_NEED_FIXED": "I want to report incorrect information",
+        "TRY_AGAIN": "Try again",
+        "CANCEL": "Cancel",
+        "ACCEPT": "Submit",
+        "CONTINUE": "Continue",
+        "REAPPLY": "Reapply",
+        "RETURN_TO_LOCK": "Cancel application"
+    },
+    "MESSAGE":
+    {
+        "WAIT_LOADING": "Please wait...",
+        "WAIT_SUBTITLE_ID": "The ID verification process may take a few moments. Thank you for your patience.",
+        "WAIT_SUBTITLE_ID_EC": "The ID verification process may take a few moments. Thank you for your patience.",
+        "WAIT_SUBTITLE_SELFIE": "The selfie verification process may take a few moments. Thank you for your patience.",
+        "NO_OFFER": "We cannot qualify you for a loan at this moment.",
+        "INCOMPATIBLE_TITLE": "Sorry, this device is not compatible with PayJoy",
+        "INCOMPATIBLE_BODY": "You can see the list of our compatible devices <a>here</a>.",
+        "DAILY_QUOTA_TITLE": "We're already at our daily loan limit while we're in beta",
+        "DAILY_QUOTA_BODY": "Please come back tomorrow to apply for a loan.",
+        "ALREADY_LOAN_TITLE": "It looks like you already have a loan with PayJoy",
+        "ALREADY_LOAN_BODY": "Please pay off your current loan with PayJoy first.",
+        "DECLINED_TITLE": "We’re sorry, you’re not qualified for a loan at this time. ",
+        "DECLINED_HELP_LINK_TEXT": "Here are some reasons why.",
+        "UNSUPPORTED_MARKET_TITLE": "We're sorry.  We are not offering cash loans in your country yet.",
+        "UNSUPPORTED_MARKET_BODY": "Please stay tuned.  We hope to expand our offerings to more countries soon.",
+        "ERROR_TITLE": "We're sorry, we've encountered an error:",
+        "ERROR_HELP": "Please contact customer support and provide the error code above.",
+        "ERROR_CODE": "Error code",
+        "COMPATIBLE_DEVICES_TITLE": "Compatible Devices",
+        "DEVICES_UNAVAILABLE_TITLE": "Sorry, we cannot access our list of compatible devices",
+        "DEVICES_UNAVAILABLE_BODY": "Please try again later.",
+        "NO_INTERNET_TITLE": "Sorry, we've encountered an error.",
+        "NO_INTERNET_BODY": "Please check your internet connection and try again."
+    },
+    "HELP":
+    {
+        "LINKTEXT": "Help",
+        "TOOLTIP": "You are just a click away from personalized help from our team. We are always here to help.",
+        "FREQUENTLY_ASKED": "FAQ",
+        "RECEIVING_MONEY_TITLE": "¿Cómo recibir el dinero?",
+        "RECEIVING_MONEY_CONTENT": "Puedes elegir la opción de retiro sin tarjeta en cualquier cajero automático BBVA o por transferencia bancaria.",
+        "RECEIVING_MONEY_CONTENT_EC": "Puedes acercarte a cualquier punto de Western Union con tu cédula de identidad Ecuatoriana para retirar el dinero",
+        "ATM_WITHDRAWAL_TITLE": "¿Cómo funciona el retiro en cajero automático?",
+        "ATM_WITHDRAWAL_CONTENT": "Una vez que has recibido el mensaje de texto de BBVA con tu código de 12 digitos, puedes acudir a cualquier cajero automatico BBVA y combinar el código de los 12 dígitos con el PIN de 4 dígitos que se muestra en la aplicación.",
+        "BANK_TRANSFER_TITLE": " ¿Cómo funciona la transferencia bancaria?",
+        "BANK_TRANSFER_CONTENT": "  Si eliges la opción de recibir tu dinero por transferencia bancaria, deberás proporcionarnos tu CLABE interbancaria. Tu dinero se verá reflejado en tu cuenta en unas horas. Si completaste tu solicitud después de las 5 pm, en fin de semana o día feriado, la transferencia se hará el siguiente día hábil.",
+        "MAKING_PAYMENTS_TITLE": "¿Cómo realizar pagos?",
+        "MAKING_PAYMENTS_CONTENT": "Puedes dirigirte a la sección de pagos y usar una de las diferentes opciones. Podrás escoger entre hacer pagos en Oxxo o tiendas de conveniencia como: 7-Eleven, Walmart, Bodega Aurrera, Superama, etc.",
+        "MAKING_PAYMENTS_CONTENT_EC": "Puedes realizar tu pago en cualquier de nuestras tiendas autorizadas",
+        "MISSED_PAYMENT_TITLE": "¿Qué pasa si no se realiza un pago?",
+        "MISSED_PAYMENT_CONTENT": "Si no realizas un pago a tiempo no cobramos intereses moratorios, tu equipo tendrá funciones restringidas por la aplicación de PayJoy hasta que realices tu pago.",
+        "BUILD_CREDIT_TITLE": "¿Cómo construir historial créditicio?",
+        "BUILD_CREDIT_CONTENT": "PayJoy reporta tus pagos a buró de crédito lo cual te ayuda a construir tu historial.Si no cuentas con historial crediticio, PayJoy creará uno cuando comencemos a reportar tu buen historial de pago.",
+        "HOW_WORKS_TITLE": "¿Cómo funciona?",
+        "OUR_MISSION_TITLE": "Nuestra misión",
+        "OUR_MISSION_CONTENT": "PayJoy fue fundada en 2015 con el objetivo de dar acceso a créditos en efectivo y financiamiento para smartphones a personas en mercados emergentes alrededor del mundo. Hemos levantado más de 40 Millones de Dólares a través de reconocidas empresas de Venture Capital, incluyendo a Union Square Ventures y Greylock Partners. Atendemos a clientes en Estados Unidos, India, Indonesia, México y Sudáfrica",
+        "CREDIT_TERMS_TITLE": "Términos y condiciones de tu crédito",
+        "CREDIT_TERMS_CONTENT": "",
+        "PAYJOY_TERMS_TITLE": "Términos y condiciones de PayJoy ",
+        "PAYJOY_TERMS_CONTENT": "",
+        "PRIVACY_TITLE": "Privacidad",
+        "WHY_DATA_TITLE": "¿Por qué necesitan mis datos?",
+        "WHY_DATA_CONTENT": "PayJoy necesita acceso a estos datos para evaluar el crédito de forma precisa, verificar la información del cliente, y operar como una app segura en tu dispositivo. ",
+        "HOW_PROTECT_TITLE": "¿Cómo son protegidos mis datos?",
+        "HOW_PROTECT_CONTENT": "Tus datos son protegidos usando encriptación estándar en la industria y controles de seguridad.  ",
+        "FEEDBACK_FORM": "What do you like? What needs improvement?",
+        "FEEDBACK_FORM_SUBTITLE": "At PayJoy, we care about each of our customers. Please feel free to provide feedback  or connect with us directly through the WhatsApp link below.",
+        "SUBMIT_FEEDBACK": "Submit feedback",
+        "FEEDBACK_TITLE": "Feedback",
+        "FEEDBACK_SUBTITLE_1": "We would love to hear from you",
+        "FEEDBACK_SUBTITLE_2": "What do you like? What needs improvement? Share with us!",
+        "RATE_EXPERIENCE": "Rate your experience with PayJoy",
+        "TELL_US": "Tell us what you think. Your feedback is appreciated.",
+        "THANK_YOU_FEEDBACK": "Thank you for your feedback!",
+        "FEEDBACK_SUBMITTED": "Your feedback has been submitted.",
+        "DONE": "Done",
+        "BUBBLES":
+        {
+            "APPLICATION_PROCESS": "Application process",
+            "LOAN_AMOUNT": "Loan amount",
+            "LOAN_PRICING": "Loan pricing",
+            "LOAN_REPAYMENT": "Loan repayment",
+            "ISSUES_OR_BUGS": "Issues or bugs"
+        },
+        "CONTACT": "Contáctanos",
+        "CONTACT_SUBTITLE": "¡Estamos aquí para ayudarte! Por favor revisa nuestra sección de preguntas frecuentes aquí.",
+        "CUSTOMER_CHARTER": "Our commitment to you",
+        "CUSTOMER_CHARTER_LINK": "https://www.payjoy.com/about/customer-charter/",
+        "MESSAGE_US": "Escríbenos",
+        "MESSAGE_US_SUBTITLE": "Recibe tu respuesta antes de 24hrs.",
+        "NOT_QUALIFIED_TITLE": "Algunas de las razones más comunes para no ser elegible para el préstamo son:",
+        "NOT_QUALIFIED_CONTENT": "- Ser menor de 18 años<br>- La identificación no es valida.<br>- La selfie no coincide con la foto de la identificación.<br>- Tener un crédito activo con PayJoy.<br>- Haber tenido un mal historial de pago en tu crédito anterior con PayJoy.<br>- No han pasado 15 días naturales entre tu crédito anterior con PayJoy y uno neuvo.<br>- Basado en algorítmo de riesgo, no has sido aprobado. Puedes intentar de nuevo en un futuro.",
+        "PHONE_PERMISSIONS_TITLE": "Why do we need these permissions?",
+        "PHONE_PERMISSIONS_CONTENT": "PayJoy takes user privacy very seriously.<br><br>The PayJoy Cash App uses Read_SMS permissions handling as a method to verify the account and loan eligibility of its costumers.<br><br>PayJoy also uses these permissions for account verification. This ensures that loan applicants get the best possible offer and the lowest possible rates.",
+        "ID_SELFIE_TITLE": "¿Para qué usa PayJoy mi identificación y mi selfie?",
+        "ID_SELFIE_CONTENT": "PayJoy te pide una foto de tu identificación oficial y una foto de tu rostro para protegerte de fraudes y crear tu cuenta de usuario.<br><br>Además, usamos la información de tu identificación para completar tu perfil y ahorrarte tiempo.",
+        "LOCK_PHONE_TITLE": "¿Qué pasa cuando mi celular se bloquea por falta de pago?",
+        "LOCK_PHONE_CONTENT": "Sólo tendrás acceso a:<br><br>- Llamar y recibir llamadas de emergencia<br>- Llamar al número de soporte de PayJoy<br>- Utilizar la aplicación PayJoy<br>- Accesar a los ajustes<br>- Conectar a internet y WiFi<br><br>Las funciones normales del celular como enviar y recibir mensajes de texto, utilizar la cámara, accesar a las fotos, entrar a aplicaciones como WhatsApp, Instagram, YouTube, Facebook, recibir y realizar llamadas estarán bloqueadas.<br>Al momento de realizar tu pago, el equipo será desbloqueado por completo, liberando cualquier acción antes restringida.",
+        "PRIVACY_POLICY_TITLE": "Aviso de Privacidad",
+        "COMPANY_TITLE": "PayJoy, Inc.",
+        "PRIVACY_POLICY_CONTENT": "Mediante el presente Aviso de Privacidad, usted tiene la oportunidad de escoger los productos y servicios que le ofrecemos, sabiendo que sus datos personales estarán protegidos. La seguridad de su información personal es nuestra prioridad; es por ello que protegemos esta información mediante el mantenimiento de protecciones físicas, electrónicas y de procedimiento, capacitando a nuestros empleados en el manejo adecuado de su información personal, a fin de impedir que terceros no autorizados accedan a la misma. <br><br> El responsable del tratamiento de sus datos personales será PayJoy, que recabará sus datos para atender su solicitud de un producto o servicios de PayJoy, o bien, para formalizar la celebración de cualquier producto o servicio. <br><br> Podemos revisar este Aviso de Privacidad en cualquier momento, y el uso de un producto o servicios después de dicha revisión constituye su aceptación del nuevo Aviso de Privacidad.",
+        "PRIVACY":
+        {
+            "PREFACE": "Upon having an active loan with PayJoy our application requests permissions and controls from your phone to function correctly.",
+            "WHY_WE_NEED_SECTION_TITLE": "What do we ask for and why?",
+            "WHY_WE_NEED": "What do we ask for and why",
+            "READ_CONTACTS": "Determine loan eligibility and pricing in order to make a personalized offer for you and prevent fraud.",
+            "WRITE_EXTERNAL_STORAGE": "It’s needed for saving updates from our app.",
+            "INTERNET_ACCESS_NETWORK_STATE": "Verify internet connection and allow you to communicate with our server in a safe way.",
+            "FOREGROUND_SERVICE": "It adds our app as a foreground service to provide a proper functioning.",
+            "READ_PHONE_STATE": "Verify SIM card and phone number.",
+            "RECEIVE_SMS_1": "Read incoming text messages only to help you unblock the phone in case it’s not connected to internet.",
+            "RECEIVE_SMS_2": "PayJoy also collects information about installed apps in order to detect possible fraud and prevent it.",
+            "RECEIVE_SMS_3": "Once PayJoy lock is activated, PayJoy will ask you for permission to read SMS messages and contacts with the only purpose of providing you with personalized loan offers.",
+            "RECEIVE_SMS_4": "Not authorizing permissions won’t change the loan term nor the phone functionality."
+        }
+    },
+    "LOCK_INFO":
+    {
+        "PAY_ON_TIME": "If you pay on time, the lock will never engage",
+        "LATE_PAYMENT_RESTRICTION": "If you are late on a payment, the lock will engage and your phone will have restricted functionalities",
+        "RESTRICTED_CALLING": "You will only be able to call emergency numbers or numbers whitelisted by your loan provider",
+        "RESTORE_TO_NORMAL": "As soon as you make your payment, your phone will restore to normal functions"
+    },
+    "NAVIGATION":
+    {
+        "CONTINUE": "Next",
+        "VERIFY": "Verify",
+        "ALLOW": "Allow",
+        "GO_TO_NEXT": "Continue",
+        "MENU": "Menu",
+        "PROFILE": "Profile",
+        "BACK": "Back",
+        "SKIP": "Skip"
+    },
+    "ID_PHOTOS":
+    {
+        "VERIFY": "Verify your identity.",
+        "REQUEST_ID": "Take a photo of your official government ID.",
+        "REQUEST_ID_EC": "Take a photo of your official government ID.",
+        "INSTRUCTIONS_LABEL": "Please verify the following:",
+        "READABLE_TEXT": "Text on your ID is legible",
+        "JUST_ID": "Remember that only your ID should be seen in the photo.",
+        "JUST_ID_EC": "Remember that only your ID should be seen in the photo.",
+        "WHY_NECESSARY": "Why does PayJoy need this?",
+        "FRONT": "FRONT",
+        "BACK": "BACK",
+        "ROTATE": "rotate",
+        "RETAKE": "retake",
+        "UNABLE_VERIFY": "Sorry, we were unable to verify your ID -- please try again.",
+        "INCORRECT_NUMBER": "Number is not valid.",
+        "WAIT_EXPLAIN": "The next step will start automatically upon successful number verification. If this takes than 2 minutes please <a>contact customer support.</a>",
+        "WAIT_CONFIRM": "Thank you! We will check this.",
+        "PROMPT_RETAKE": "Sorry, we were unable to verify your ID -- please try again.",
+        "CHECK_IMAGE_QUALITY": "Make sure your picture is not blurry or have any glare.",
+        "CHECK_FACE_ON_ID": "Make sure your picture shows a face on the ID."
+    },
+    "ID_CONFIRM":
+    {
+        "TITLE": "Great!",
+        "SUBTITLE": "Do these details look correct?",
+        "NAME": "Name",
+        "BIRTHDATE": "Birthdate",
+        "ID_NUMBER": "CURP Number",
+        "ID_NUMBER_EC": "ID Number",
+        "ADDRESS": "Address",
+        "BUTTON_OK": "Yes, everything is correct",
+        "BUTTON_INCORRECT": "I want to report incorrect information",
+        "CONFIRM_MANUAL_REVIEW_PROMPT": "Are you sure this information is incorrect?",
+        "CONFIRM_INCORRECT_INFO": "Yes, this is incorrect information",
+        "UNDO_MANUAL_REVIEW_REQUEST": "No, I would like to check again",
+        "WAIT_CONFIRM_TITLE": "Thanks! We'll check on this.",
+        "WAIT_CONFIRM_DETAIL_1": "The support team is reviewing your ID information and we'll get back to you shortly.",
+        "WAIT_CONFIRM_DETAIL_2": "Please continue to the last step of qualifications and provide us with a selfie."
+    },
+    "ADDRESS":
+    {
+        "TITLE": "Please enter your address",
+        "SUBTITLE": "Enter the following information",
+        "STREET": "Street",
+        "CITY": "City",
+        "STATE": "State",
+        "COUNTRY": "Country"
+    },
+    "ORIENTATION":
+    {
+        "HEADER": "Let's get you qualified for some loans in minutes.",
+        "STEPS": "STEPS:",
+        "STEP_1": "Answer some questions to see if you are qualified for some loans",
+        "STEP_2": "Choose from the list of loans you're qualified for and finalize your loan.",
+        "STEP_3": "Get out cash simply, quickly and begin your credit journey.",
+        "PRIVACY_STATEMENT": "Your privacy is extremely important to us.  We encrypt our data and use it only for qualifying for loans."
+    },
+    "PHONE_VERIFY":
+    {
+        "NUMBER_INSTRUCTIONS": "Your 10 digit cell phone number",
+        "VERIFY_MESSAGE": "Please enter your phone number",
+        "PROGRESS_MESSAGE": "Please wait while we verify your phone number...",
+        "WAIT_EXPLAIN": "You will automatically proceed to the next step when completed. If this takes more than 2 minutes please <a>contact customer support.</a>",
+        "INPUT_PLACEHOLDER": "Enter here",
+        "INCORRECT_NUMBER": "Invalid number",
+        "CLICK_HERE": "I want to enter a different number"
+    },
+    "PERMISSIONS":
+    {
+        "TITLE": "Allow permissions",
+        "DESCRIPTION": "PayJoy uses certain data to determine PayJoy account eligibility, account verification, and to get you the best loan offers.",
+        "LIST_HEADER": "What we ask for:",
+        "TERMS_AND_CONDITIONS": "Terms and Conditions",
+        "SCORING_ANDROID_PERMISSIONS": "Consent to SMS, Calls and Contacts",
+        "MINIMAL_ANDROID_PERMISSIONS": "Consent to Calls",
+        "CIRCULO_CONSENT": "Consent to pull your Circulo credit score.",
+        "EXPLAIN": "Why do we need these permissions?",
+        "PRIVACY": "See our privacy policy",
+        "CANCEL": "Cancel",
+        "CANCEL_EXPLAIN": "We cannot continue the process without permissions.",
+        "ACCEPT_PERMISSIONS": "I want to accept permissions",
+        "LEAVE_APP": "I want to leave the app",
+        "CHECKBOX_TEXT": "I agree to the Terms and Conditions as well as the Privacy Policy",
+        "TERMS_TITLE": "Terms and Conditions"
+    },
+    "OFFERS":
+    {
+        "OFFERS": "Offers",
+        "LOAN_DETAILS": "Loan Details",
+        "PICK_LOAN": "Pick your loan amount",
+        "LOAN_AMOUNT": "Loan amount",
+        "TOTAL": "Total",
+        "TOTAL_AMOUNT": "Total amount",
+        "TOTAL_AMOUNT_DUE": "Total amount due",
+        "TOTAL_FINANCE_AMOUNT": "Total finance amount",
+        "TERM": "term",
+        "TERMS": "terms",
+        "MARKUP": "markup",
+        "IVA": "IVA",
+        "CAT": "CAT",
+        "SELECT_OFFER": "Select Offer",
+        "ALREADY_HAVE_LOAN": "It looks like you already have a loan with PayJoy",
+        "PLEASE_PAY_OFF": "Please pay off your current loan with PayJoy first.",
+        "DENIAL_REASONS_LINK": "Here are some reasons why.",
+        "NOT_QUALIFIED": "We're sorry you're not qualified for a loan at this time.",
+        "weeks": "weeks",
+        "months": "months",
+        "payment": "Payment",
+        "weekly": "weekly",
+        "monthly": "monthly",
+        "weeks_singular": "week",
+        "months_singular": "month",
+        "CONTACT_BLURB": "Any questions about your loan offer? We are here to help;",
+        "CONTACT_LINK_TEXT": "call or text us now!",
+        "BODEGA_GIFT_CARD": "Regalo Tarjetade",
+        "BODEGA_USE_LOAN": "Use your loan on at Bodega store gift card."
+    },
+    "SELFIE":
+    {
+        "TITLE": "Please provide us with a selfie",
+        "LINK_EXPLAIN": "Why does PayJoy need this?",
+        "LINK_EXPLAIN_PRIVACY": "How is my data protected?",
+        "EXPLAIN": "Refer to the illustration above as an example. Zoom your camera to show your full face.",
+        "REVIEW": "Please make sure your entire face is visible in the box with free space around it. Take another picture if necesarry.",
+        "POPUP_TITLE": "Please re-take your photo. Here are a few tips:",
+        "POPUP_ITEM_1": "Is the photo focused?",
+        "POPUP_ITEM_2": "Is there a glare from the sun?",
+        "POPUP_ITEM_3": "Is anything covering your face?",
+        "MULTIPLE_FACES_FOUND": "Make sure you're the only person on the picture.",
+        "FACE_TOO_CLOSE": "Make sure your face is not too close to the camera. Please leave some empty space above your forehead and below your chin.",
+        "CHECK_IMAGE_QUALITY": "Make sure your face is clearly visible on the picture. Please make sure your picture is not blurry or contain any glare.",
+        "RETAKE": "Retake photo.",
+        "TAKE_PHOTO": "Upload my selfie"
+    },
+    "CIRCULO":
+    {
+        "ENTER_SIGNATURE": "Enter your signature",
+        "CLEAR_SIGNATURE": "Reset",
+        "CONTRACT_TITLE": "Permissions for Credit History Check",
+        "CONTRACT_BODY_1": "Por este conducto autorizo expresamente a PayJoy y sus socios prestamistas para que por conducto de sus funcionarios facultados lleve a cabo investigaciones, sobre mi comportamiento Crediticio en las Sociedades de Información Crediticia que estime conveniente.",
+        "CONTRACT_BODY_2": "Así mismo, declaro que conozco la naturaleza y alcance de la información que se solicitará, del uso que PayJoy y sus socios prestamistas hará de tal información y de que esta podrá realizar consultas periódicas de mi historial crediticio, consintiendo que esta autorización se encuentre vigente por un periodo de 3 años contados a partir de la fecha de su expedición y en todo caso durante el tiempo que mantengamos relación jurídica. ",
+        "CONTRACT_BODY_3": "Estoy consciente y acepto que este documento quede bajo propiedad de (Nombre de Usuario) y/o Sociedad de Información Crediticia Consultada para efectos de control y cumplimiento del artículo 28 de la Ley para Regular a Las Sociedades de Información Crediticia.",
+        "CANCEL_EXPLAIN": "We cannot continue the process without permissions.",
+        "ACCEPT_PERMISSIONS": "I want to accept permissions",
+        "LEAVE_APP": "I want to leave the app"
+    },
+    "TRANSITION":
+    {
+        "TITLE": "Qualify quickly for offers with these steps:"
+    },
+    "TASKS":
+    {
+        "TASK_PHONE_VERIFICATION": "Phone number verification",
+        "TASK_ACCEPT_TERMS_AND_CONDITIONS": "Agree to Terms and Conditions",
+        "TASK_ACCEPT_CIRCULO_CONTRACT": "Allow PayJoy phone permissions",
+        "TASK_ID_VERIFICATION": "ID + selfie verification",
+        "TASK_ACCEPT_LOAN_CONTRACT": "Sign loan contract"
+    },
+    "WAIT":
+    {
+        "TITLE": "Great!",
+        "EXPLAIN_1": "Thanks for submitting",
+        "EXPLAIN_2": "Please wait while we have one of our support team review your information and correct anything to make sure it matches your ID.",
+        "SECURING_DEVICE": "Please wait while we secure your device."
+    },
+    "OFFERS_WAIT":
+    {
+        "TRANSITION_TITLE": "One moment,",
+        "TRANSITION_SUBTITLE": "we are working hard to find you the best rates for your cash loan!"
+    },
+    "CONTRACT": 
+    {
+        "TITLE": "Excellent!",
+        "SUBTITLE_1": "We are almost done.",
+        "SUBTITLE_2": "The last three steps are for you to get to know our lock and you can activate it on your device.",
+        "SUBTITLE_3": "The PayJoy lock turns your phone into a virtual guarantee.",
+        "CONFIGURATION": "Configure the cell phone for the loan",
+        "LOCK_SETUP": {
+            "TITLE": "To continue your loan, we need to prepare your phone so it can act as collateral.",
+            "GENERAL_GUIDANCE": "You will need to do the following:",
+            "GENERAL_STEP_1": "Give PayJoy administrator permissions",
+            "GENERAL_STEP_2": "Disable other administrators",
+            "GENERAL_STEP_3": "Accept KLMS terms and conditions",
+            "WHY_NECESSARY": "Why does PayJoy require these permissions?",
+            "PRIVACY_POLICY": "Check our privacy policy.",
+            "HUAWEI_STEP_1": "Download the Bridge service and allow it to be installed as an external app.",
+            "HUAWEI_STEP_2": "Open the Bridge service and activate it as a device administrator.",
+            "HUAWEI_STEP_3": "Activate PayJoy and the Bridge service as device administrators.",
+            "HUAWEI_STEP_4": "Disable all administrators except:"
+        }
+    },
+    "LOCK":
+    {
+        "PHONE_LOCKED_MESSAGE": "Your phone is locked.",
+        "PHONE_LOCKED_DIRECTIONS": "Please make a payment to restore functions.",
+        "NEXT_PAYMENT_DUE_PRE": "Your next payment is due ",
+        "HELLO": "Hi",
+        "RATE_EXPERIENCE": "Rate your experience with PayJoy",
+        "REFER_FRIEND_HEADER": "Share PayJoy with a friend",
+        "SHARE_LINK_TEXT": "Share via WhatsApp",
+        "REFER_FRIEND_FILLER_TEXT": "Hello! 👋🏽%0ADid you know that you can apply for a personal loan with just your official identification and your Facebook account? Check all the information and download the app here ➡️ ",
+        "GO_TO_OFFERS_LINK_TEXT": "Take me to my offers!",
+        "PLEASE_WAIT": "Please wait",
+        "MAKE_A_PAYMENT": "Make a payment",
+        "SEE_LOAN_DETAILS": "see loan details",
+        "PROGRESS": "PROGRESS",
+        "REMAINING": "remaining",
+        "DEVICE_TAG": "PayJoy Device ID",
+        "PHONE_NUMBER": "Telephone number",
+        "PHONE_SETTINGS": "Phone settings",
+        "COOLDOWN_HEADER": "Looking to apply for another loan?",
+        "COOLDOWN_TEXT": "We ask that all customers wait a cooldown period of two weeks between loans.",
+        "OFFER_HEADER": "You're eligible for a new loan offer!",
+        "OFFER_TEXT": "Get your offer within minutes and your money within days.",
+        "OFFER_AVAILABLE_IN": "Next loan available in:",
+        "CONGRATULATIONS_PAID_OFF": "Congratulations! You have fully paid off your loan.",
+        "DAYS": "DAYS",
+        "HOURS": "HOURS",
+        "LOAN_CANCELED_HEADER": "Loan cancelled",
+        "LOAN_CANCELED_PICKUP_TEXT_1": "Your loan was cancelled because you did not pick up your funds.",
+        "LOAN_CANCELED_PICKUP_TEXT_2": "You can reapply.",
+        "LOAN_CANCELED_TRANSFER_TEXT_1": "Your loan was cancelled because your funds could not be successfully transferred to your bank account.",
+        "LOAN_CANCELED_TRANSFER_TEXT_2": "You can reapply!",
+        "LOAN_CANCELED_TRANSFER_TEXT_3": "Please check and confirm that your bank account information is correct and that your account is active.",
+        "LOAN_CANCELED_UNINSTALL_TEXT_1": "You can now uninstall the app.",
+        "LOAN_CANCELED_UNINSTALL_TEXT_2": "If you would like to reapply, please uninstall and reinstall the app.",
+        "MINUTES": "MINUTES",
+        "NEXT_PAYMENT_TIME_LEFT_PLURAL": "<span>in {{ days }} days {{ date }}</span>",
+        "NEXT_PAYMENT_TIME_LEFT_SINGLE": "<span>tomorrow</span>",
+        "NEXT_PAYMENT_TIME_LEFT_TODAY": "<span>today</span>",
+        "NEXT_PAYMENT_TIME_PHRASE": " at <span class='time'>{{ time }}</span>.",
+        "PAST_DUE_SENTENCE_PRE": "Your next payment is ",
+        "PAST_DUE": "past due",
+        "PAID_SO_FAR_SENTENCE": "You’ve completed {{ numerator }} of {{ denominator }} payments!",
+        "PAYMENTS_REMAINING_SENTENCE": "You are {{ payments }} payments away from paying off your loan",
+        "PAID": "paid",
+        "REMOVABLE_REMINDER": "You will be able to remove this app from your device 35 days after your last payment date.",
+        "DEVICE_FULLY_REMOVABLE": "You can now uninstall the app from your phone. Keep it on your phone to get another loan in the future!",
+        "MENU":
+        {
+            "CONTACT_SUPPORT_LINKTEXT": "Contact support",
+            "EMERGENCY_CALL_TEXT": "Emergency call",
+            "HOW_WORKS": "How does it work?",
+            "PRIVACY_TITLE": "Privacy",
+            "HELP_TITLE": "Help",
+            "HELP_SUBTITLE": "FAQ and Contact Us",
+            "PERSONAL_LOAN_TITLE": "Personal loan",
+            "PREVIOUS_LOANS_OFFERS_TITLE": "Offers",
+            "PERSONAL_LOAN_SUBTITLE": "Pay off a loan and see more offers",
+            "MAKE_PAYMENT_TITLE": "Make a payment",
+            "ACTIVE_CREDIT_TITLE": "Active loans"
+        },
+        "DETAILS":
+        {
+            "LOAN_DETAILS": "loan details",
+            "AMOUNT_PAYABLE": "amount payable",
+            "TERM": "term",
+            "HEADER_PAYMENTS": "payments",
+            "HEADER_MONTHLY_PAYMENTS": "monthly payments",
+            "HEADER_WEEKLY_PAYMENTS": "weekly payments",
+            "HEADER_DAILY_PAYMENTS": "daily payments",
+            "NEXT_PAYMENT_HEADER": "next payment due"
+        },
+        "API_STRINGS":
+        {
+            "weekly": "weekly",
+            "monthly": "monthly",
+            "daily": "daily",
+            "months": "months"
+        },
+        "BANNER_MESSAGES":
+        {
+            "NO_INTERNET_TITLE": "You are not connected to internet",
+            "NO_INTERNET_BODY": "Please check your connection",
+            "WITHDRAWAL_TITLE": "Your cash is ready to pick up",
+            "WITHDRAWAL_MESSAGE": "Please go to your bank's ATM to access your funds.",
+            "WITHDRAWAL_LINK_TEXT": "How to get your cash"
+        },
+        "WITHDRAWAL":
+        {
+            "HEADER": "When you pick up your cash",
+            "BRING_ID": "Your official government ID",
+            "AMOUNT": "Loan amount:",
+            "CONTRACT_NUMBER": "Contract number:",
+            "REFERENCE_ID": "Reference number:",
+            "CATEGORY_MEMO": "Category memo (Concepto):",
+            "EXPIRATION": "expiration date:",
+            "SUBHEADER": "Bring the following when you collect your money at the BBVA window:",
+            "SUBHEADER_EC": "Bring the following when you collect your money at Western Union:"
+        }
+    },
+    "WALMART":
+    {
+        "CONGRATULATIONS": "Congratulations! Your gift card is almost ready.",
+        "STORE_PICKUP": 
+        {
+            "HEADER": "Follow these steps to pick it up in store:",
+            "STEP_ONE": "Look for a PayJoy promoter in a Bodega Aurrerá store",
+            "STEP_TWO": "Click “Next” and show the promoter your screen",
+            "STEP_THREE": "Get your gift card, ready for immediate use!"
+        },
+        "USAGE": "Use your gift card at any Bodega Aurrera, Walmart or Sam's Club store.",
+        "NEXT": "Next"
+    },
+    "LOAN_OPTIONS": 
+    {
+        "TITLE": "How would you like to receive your money?",
+        "CASH_TRANSFER": "Cash transfer",
+        "ATM_WITHDRAWAL": "Withdrawal without a card at a BBVA ATM",
+        "WINDOW_PICKUP": "Withdrawal at a BBVA window"
+    },
+    "FINAL_OFFER":
+    {
+        "HEADER": "Excellent! Here is your offer",
+        "LOCK_DETAILS_TITLE": "PayJoy Lock",
+        "LOCK_DETAILS_CONTENT": "This loan will be secured by the PayJoy padlock. This means that when you are late on a payment, your phone will be locked and have limited features until you make your payment.",
+        "ATM_WITHDRAWAL_TITLE": "Cash withdrawal",
+        "ATM_WITHDRAWAL_CONTENT": "Once you have received the text message from BBVA with your 12-digit code, you can go to any BBVA ATM and combine the 12-digit code with the 4-digit PIN displayed in the app.",
+        "WINDOW_PICKUP_TITLE": "BBVA withdrawal",
+        "WINDOW_PICKUP_CONTENT": "Once your loan is approved, your money will be available at the BBVA bank within 4-8 business hours. You will be able to consult from your application the information that you must present at the window to withdraw your money.",
+        "WINDOW_PICKUP_TITLE_EC": "Western Union withdrawal",
+        "WINDOW_PICKUP_CONTENT_EC": "Once your loan is approved, your money will be available at any Western Union location within 4-8 business hours. You must attend with your identity card and request the withdrawal.",
+        "CASH_TRANSFER_TITLE": "Bank transfer",
+        "CASH_TRANSFER_CONTENT": "Your money will be reflected in your account in a few hours. If you completed your request after 5 pm, on a weekend or a holiday, the transfer will be made the next business day.",
+        "PAYMENT_TITLE": "Payment",
+        "PAYMENT_CONTENT": "You can go to the payment section and use one of the different options. You can choose between making payments at Oxxo or convenience stores such as: 7-Eleven, Walmart, Bodega Aurrera, and Superama."
+    },
+    "WINDOW_PICKUP":
+    {
+        "HEADER": "Window pickup",
+        "HEADER_EC": "Withdrawing your loan",
+        "CONTENT": "Once your loan is approved, your money will be available at the BBVA bank within 4-8 business hours. You must go with your current official identification, agreement number, reference and amount (loan amount). You can check this in your application.",
+        "CONTENT_EC": "Once your loan is approved, your money will be available at any Western Union module. You must bring your identity card to request the withdrawal.",
+        "HOURS": "BBVA service hours are Monday through Friday (8:30 am - 4:00 pm).",
+        "HOURS_EC": "Western Union support hours are Monday through Friday from 9 am to 7 pm.",
+        "VALID": "*Remember that your reference will be valid for 5 business days.",
+        "CONTINUE": "Do you want to continue?",
+        "BUTTON_TEXT": "Yes, withdraw my money from BBVA",
+        "BUTTON_TEXT_EC": "Yes, continue"
+    },
+    "DISBURSEMENT":
+    {
+        "CashTransfer":
+        {
+            "PROCESSING":
+            {
+                "LABEL": "Pending",
+                "MESSAGE": "Your cash transfer is being processed.",
+                "LINKTEXT": "For more information"
+            },
+            "COMPLETED":
+            {
+                "LABEL": "Success!",
+                "MESSAGE": "Your money has successfully been transferred to your bank account.",
+                "LINKTEXT": "For more information"
+            },
+            "ERROR":
+            {
+                "LABEL": "Error",
+                "MESSAGE": "There was an error tranferring your money.  Please contact support.",
+                "LINKTEXT": "For more information"
+            },
+            "EXPIRED":
+            {
+                "LABEL": "Expired",
+                "MESSAGE": "Your cash tranfer expired.  Please contact support.",
+                "LINKTEXT": "For more information"
+            },
+            "READY":
+            {
+                "LABEL": "Pending",
+                "MESSAGE": "Your cash transfer is being processed.",
+                "LINKTEXT": "For more information"
+            }
+        },
+        "AtmWithdrawal":
+        {
+            "PROCESSING":
+            {
+                "LABEL": "Pending",
+                "MESSAGE": "Your BBVA ATM withdrawal order is being processed.",
+                "MESSAGE_EC": "Your Western Union withdrawal order is being processed.",
+                "LINKTEXT": "How to get your money"
+            },
+            "COMPLETED":
+            {
+                "LABEL": "Success",
+                "MESSAGE": "Your money has been successfully withdrawn",
+                "MESSAGE_EC": "Your money has been successfully withdrawn",
+                "LINKTEXT": "For more information"
+            },
+            "ERROR":
+            {
+                "LABEL": "Error",
+                "MESSAGE": "There was an error processing your money withdrawal order with BBVA ATM. Please contact support.",
+                "MESSAGE_EC": "There was an error processing your money withdrawal order with Western Union. Please contact support.",
+                "LINKTEXT": "For more information"
+            },
+            "EXPIRED":
+            {
+                "LABEL": "Expired",
+                "MESSAGE": "The time limit to withdraw your money has expired. Please contact support.",
+                "MESSAGE_EC": "The time limit to withdraw your money has expired. Please contact support.",
+                "LINKTEXT": "For more information"
+            },
+            "READY":
+            {
+                "LABEL": "Ready!",
+                "MESSAGE": "Your money is ready to withdrawal from any BBVA.",
+                "MESSAGE_EC": "Your money is ready to withdrawal from any Western Union location.",
+                "LINKTEXT": "How to get your money"
+            }
+        },
+        "WalmartGiftCard":
+        {
+            "PROCESSING":
+            {
+                "LABEL": "Pending",
+                "MESSAGE": "Your gift card order is being processed.",
+                "LINKTEXT": "How to get your gift card"
+            },
+            "DISBURSED":
+            {
+                "LABEL": "Success",
+                "MESSAGE": "Your gift card has been successfully picked up",
+                "LINKTEXT": "For more information"
+            },
+            "CANCELED":
+            {
+                "LABEL": "Canceled",
+                "MESSAGE": "Your loan was canceled.",
+                "LINKTEXT": "For more information"
+            },
+            "ERROR":
+            {
+                "LABEL": "Error",
+                "MESSAGE": "There was an error processing your gift card order.  Please contact support.",
+                "LINKTEXT": "For more information"
+            },
+            "EXPIRED":
+            {
+                "LABEL": "Expired",
+                "MESSAGE": "The time limit to pick up your gift card has expired.  Please contact support.",
+                "LINKTEXT": "For more information"
+            },
+            "OPEN":
+            {
+                "LABEL": "Please show this to the store assistant",
+                "MESSAGE": "Present this screen at the Bodega Aurrerá store to receive your gift",
+                "LINKTEXT": "Check out our FAQ or contact support"
+            },
+            "EXTRA_TEXT":
+            {
+                "CARD_AMOUNT_LABEL": "Card amount to issue",
+                "APPLY_AGAIN": "Reapply for your gift card!"
+            }
+
+        },
+        "WindowPickup":
+        {
+            "PROCESSING":
+            {
+                "LABEL": "Pending",
+                "MESSAGE": "Your window pickup order is being processed.",
+                "LINKTEXT": "How to get your money"
+            },
+            "COMPLETED":
+            {
+                "LABEL": "Success!",
+                "MESSAGE": "Your money has been successfully picked up at the BBVA bank window.",
+                "LINKTEXT": "For more information"
+            },
+            "ERROR":
+            {
+                "LABEL": "Error",
+                "MESSAGE": "There was an error with the request to pick up your money at BBVA.  Please contact support.",
+                "LINKTEXT": "For more information"
+            },
+            "EXPIRED":
+            {
+                "LABEL": "Expired",
+                "MESSAGE": "The time limit to pick up your money has expired.  Please contact support.",
+                "LINKTEXT": "For more information"
+            },
+            "READY":
+            {
+                "LABEL": "Ready!",
+                "MESSAGE": "Your money is ready to pick up at a BBVA bank window.",
+                "LINKTEXT": "How to get your money"
+            }
+        }
+    }
+}
